@@ -1,4 +1,6 @@
 token id: 752959bcd081b4d15ec917a53eede85b9a0eb1e7
 
 gist id: ec0018a36adde838d75fbc7a28200cac
-
+ 
+在EDIT CONFIGURATION 中输入 token id ，然后SHIFT + ALT + U上传
+在EDIT CONFIGURATION 中输入 token id 和 gist id，然后SHIFT + ALT + D下载
